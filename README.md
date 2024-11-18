@@ -1,7 +1,7 @@
-# AX1800_rtl8852au_to_ubuntu
+# AX1800_rtl8852au_ubuntu
 tp-link USB Wi-Fiアダプタ（AX1800）用ドライバのインストール
 
-Ubuntu20.04 にて実装済
+Ubuntu20.04 にて動作確認済
 
 ## Installation
 ```
